@@ -1,0 +1,32 @@
+PODS:
+  - GoogleToolboxForMac/Defines (2.1.0)
+  - GoogleToolboxForMac/Logger (2.1.0):
+    - GoogleToolboxForMac/Defines (= 2.1.0)
+  - GTMSessionFetcher/Core (1.1.6)
+  - GVRKit (1.80.0):
+    - GVRSDK (= 1.80.0)
+  - GVRSDK (1.80.0):
+    - GoogleToolboxForMac/Logger (= 2.1.0)
+    - GTMSessionFetcher/Core (= 1.1.6)
+  - Intrepid (0.8.1):
+    - Intrepid/Core (= 0.8.1)
+  - Intrepid/Core (0.8.1):
+    - IP-UIKit-Wisdom (= 0.0.10)
+  - IP-UIKit-Wisdom (0.0.10)
+
+DEPENDENCIES:
+  - GVRKit
+  - GVRSDK
+  - Intrepid
+
+SPEC CHECKSUMS:
+  GoogleToolboxForMac: 2b2596cbb7186865e98cadf2b1e262d851c2b168
+  GTMSessionFetcher: 6aacd0ab48ddf0c3633ab2642d792abfcad1b08a
+  GVRKit: e99901bbec729d0a66fc718c7864bcc62caf2f8b
+  GVRSDK: 39acc3d95bc9fc272035ccd5dff2004892f79131
+  Intrepid: 0dfbdc885b28cc4306ad95ca83023c1c70b92fbd
+  IP-UIKit-Wisdom: b395a065344071b33659e5f6b918043a97c48a44
+
+PODFILE CHECKSUM: 943ead46ff3636c7ef4fa3934c646c51d766a126
+
+COCOAPODS: 1.3.1
